@@ -8,8 +8,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a Project Managment
-
 - 🌱 I’m currently studying at **Blekinge University of Technology** in **web programming.**
 
 - 👯 I’m very new in web development but have the **passion** to learn new things in the field.
