@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-[![FalkenDev's github activity graph](https://activity-graph.herokuapp.com/graph?username=FalkenDev&theme=rouge)](https://github.com/FalkenDev/github-readme-activity-graph)
+[![FalkenDev's github activity graph](https://activity-graph.herokuapp.com/graph?username=FalkenDev&theme=react-dark)](https://github.com/FalkenDev/github-readme-activity-graph)
 
 <br/>
 <br/>
