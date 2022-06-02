@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying at **Blekinge University of Technology** in **web programming.**
 
-- 👯 I’m very new in web development but have the **passion** to learn new things in the field.
+- 👯 I’m new in web development but have the **passion** to learn new things in the field.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/FalkenDev?tab=projects)**
 
@@ -27,6 +27,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>    
