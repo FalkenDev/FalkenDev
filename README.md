@@ -1,5 +1,7 @@
 <h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm FalkenDev</h1>
+
 ![alt text](https://github.com/FalkenDev/FalkenDev/blob/main/falkendev.png?raw=true)
+
 <h3 >I'm currently studying at BTH (Blekinge University of Technology) to become a Fullstack Devoloper </h3>
 <br/>
 <br/>
