@@ -1,4 +1,3 @@
-<a href="#"><img width="500px" height="auto" src="https://www.forwhmcs.com/assets/img/desktop.png"  height="145px"/></a>
 <h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm FalkenDev</h1>
 <h3 >I'm currently studying at BTH (Blekinge University of Technology) to become a Fullstack Devoloper </h3>
 <img src="https://prnt.sc/ERn4vtmXobaY"/> </a> 
