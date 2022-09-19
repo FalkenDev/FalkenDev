@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently studying at **Blekinge University of Technology** in **web programming.**
 
-- 👯 I’m new in web development but have the **passion** to learn new things in the field.
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/FalkenDev?tab=projects)**
 
 - 📫 How to reach me **falkendev@gmail.com**
