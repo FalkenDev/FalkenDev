@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently studying at **Blekinge University of Technology** in **web programming.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/FalkenDev?tab=projects)**
+- 👨‍💻 All of my projects are available at **[My Repositorie](https://github.com/FalkenDev?tab=repositories)**
 
 - 📫 How to reach me **falkendev@gmail.com**
-
-- ⚡ Fun fact I play games and love being up late at night.
 
 <br/>
 
