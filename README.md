@@ -2,17 +2,16 @@
 
 ![alt text](https://github.com/FalkenDev/FalkenDev/blob/main/falkendev.png?raw=true)
 
-<h3 >I'm currently studying at BTH (Blekinge University of Technology) to become a Fullstack Devoloper </h3>
-<br/>
 <br/>
 
 ## 🙋‍♂️ About Me
+- 🌱 I’m currently working as a **Fullstack Developer**
 
-- 🌱 I’m currently studying at **Blekinge University of Technology** in **web programming.**
+- 🎓 Studied **Web Programming** at **Blekinge University of Technology**
 
-- 👨‍💻 All of my projects are available at **[My Repositorie](https://github.com/FalkenDev?tab=repositories)**
+- 👨‍💻 All of my projects are available at my **[GitHub Repository](https://github.com/FalkenDev?tab=repositories)**
 
-- 📫 How to reach me **falkendev@gmail.com**
+- 📫 How to reach me: **falkendev@gmail.com**
 
 <br/>
 
