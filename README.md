@@ -72,6 +72,7 @@
 ## 📊 My Github Stats
 ![FalkenDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=falkendev&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=falkendev&theme=tokyonight&dates=05DD3C)](https://git.io/streak-stats)
+<br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
