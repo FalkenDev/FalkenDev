@@ -5,7 +5,7 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently working as a **Fullstack Developer**
+- 🌱 I’m currently working as a **Designer** and **Fullstack Developer**
 
 - 🎓 Studied **Web Programming** at **Blekinge University of Technology**
 
@@ -79,13 +79,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://twitter.com/falkendeveloper"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/falkendeveloper/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
 </p>
 
 ## ❤ Views and Followers
@@ -93,3 +86,4 @@
     <img src="https://komarev.com/ghpvc/?username=FalkenDev">
 </a>
 <a href="https://github.com/FalkenDev?tab=followers"><img src="https://img.shields.io/github/followers/FalkenDev?label=Followers&style=social" alt="GitHub Badge"></a>
+
