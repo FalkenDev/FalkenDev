@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently working as a **Designer** and **Fullstack Developer**
 
-- 🎓 Studied **Web Programming** at **Blekinge University of Technology**
+- 🎓 Degree in **Web Programming** at **Blekinge University of Technology**
 
 - 👨‍💻 All of my projects are available at my **[GitHub Repository](https://github.com/FalkenDev?tab=repositories)**
 
@@ -86,4 +86,5 @@
     <img src="https://komarev.com/ghpvc/?username=FalkenDev">
 </a>
 <a href="https://github.com/FalkenDev?tab=followers"><img src="https://img.shields.io/github/followers/FalkenDev?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
